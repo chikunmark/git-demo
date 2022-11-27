@@ -1,9 +1,8 @@
 h1 {
   color: red;
+  background-color: paleturquoise;
 }
 
 p {
-  font-size: 80px;
+  font-size: 14px;
 }
-
-/* add some comments */
